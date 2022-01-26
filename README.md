@@ -15,5 +15,5 @@ resolvers += "jitpack" at "https://jitpack.io"
 ```
 
 ```scala
-"com.github.kaizen-solutions" %% "trace4cats-newrelic" % "Tag"
+"com.github.kaizen-solutions.trace4cats-newrelic" %% "trace4cats-newrelic" % "Tag"
 ```
