@@ -11,5 +11,9 @@ Please see https://github.com/trace4cats/trace4cats-newrelic for the official re
 Add it to your `build.sbt`:
 
 ```scala
+resolvers += "jitpack" at "https://jitpack.io"
+```
+
+```scala
 "com.github.kaizen-solutions" %% "trace4cats-newrelic" % "Tag"
 ```
